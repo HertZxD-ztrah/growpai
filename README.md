@@ -59,3 +59,12 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
 # image of growpai!
+![image](https://github.com/user-attachments/assets/51756336-3775-4664-bea4-df0e616aaeaf)
+![image](https://github.com/user-attachments/assets/5ebc2be6-78a9-4d5b-9d10-5f3edfd991f5)
+![image](https://github.com/user-attachments/assets/a0c3d782-92f8-4962-a49d-ebea40bed8b5)
+![image](https://github.com/user-attachments/assets/7ce8e05e-aa47-4910-8176-427c8becaa24)
+![image](https://github.com/user-attachments/assets/40e19e5d-7574-44d0-a3e3-0fa363dabb5a)
+
+
+
+
