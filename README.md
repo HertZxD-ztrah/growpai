@@ -56,6 +56,32 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 * Added login form on custom ltoken login!
 * Gedagedigedagedao
 
+[8/24/2024]
+* Fixed error token stuff on 4.19 (again)
+* Updated beta to 4.64!
+* Fixed multiple growtopia open on beta (thanks to yuhkil)!
+  
+[8/30/2024]
+* Fixed inventory count not updating!!
+* Added command /back (back to previous world)
+* Added command /door < door id > (direct door id enter)
+* B4FF1BFAB0000000000000000000000
+
+[9/13/2024]
+* ====BETA ONLY====
+* Updated to 4.65 (0.2b)
+* Fixed spoof login (it use fake information like fake mac/device id)
+* Fixed some stuff idk what else
+
+[9/14/2024]
+* Updated growpai 4.19 to 4.65
+* Fixed crash when entering world with surgeon bot
+* Because tonight will be the night that I will fall for you
+
+[9/26/2024]
+* Updated growpai 4.19 to 4.66
+
+
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
 # image of growpai!
