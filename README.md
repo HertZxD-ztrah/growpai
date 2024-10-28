@@ -2,7 +2,7 @@
 Growpai is a utility tool that makes your life easier in Growtopia. With the built-in Lua Executor you can create new features!
 # This is the real Github (check username github HertZxD)
 
-# Version 4.66
+# Version 4.70
 # Changelogs
 [26/4/2024]
 * Updated to 4.54 (4.19 still available for now)
@@ -81,12 +81,31 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 [9/26/2024]
 * Updated growpai 4.19 to 4.66
 
+[10/06/2024]
+* ====BETA ONLY====
+* Updated to 4.67 (0.3b)
+* i didn't test all of it, tell me if its not working
+
+[10/06/2024]
+* Updated v 4.19 to 4.69 (not beta :()
+* i didn't test all of it, tell me if its not working
+
+[10/06/2024]
+* Updated BETA of growpai to 4.69
+* Fixed stuff someting to do with hotkey
+* Devmode fixed
+* i didn't test all of it, tell me if its not working
+
+[10/06/2024]
+* ====BETA ONLY====
+* Fixed ban on pathfinder
+* FIxed pathfinder no work (always teleported back)
 
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
 # image of growpai!
 ![image](https://github.com/user-attachments/assets/51756336-3775-4664-bea4-df0e616aaeaf)
-![image](https://github.com/user-attachments/assets/5ebc2be6-78a9-4d5b-9d10-5f3edfd991f5)
+![image](https://github.com/user-attachments/assets/5ebc2be6-78a9-4d5b-9d10-5f3edfd991f5) 
 ![image](https://github.com/user-attachments/assets/a0c3d782-92f8-4962-a49d-ebea40bed8b5)
 ![image](https://github.com/user-attachments/assets/7ce8e05e-aa47-4910-8176-427c8becaa24)
 ![image](https://github.com/user-attachments/assets/40e19e5d-7574-44d0-a3e3-0fa363dabb5a)
