@@ -86,20 +86,24 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 * Updated to 4.67 (0.3b)
 * i didn't test all of it, tell me if its not working
 
-[10/06/2024]
+[10/14/2024]
 * Updated v 4.19 to 4.69 (not beta :()
 * i didn't test all of it, tell me if its not working
 
-[10/06/2024]
+[10/16/2024]
 * Updated BETA of growpai to 4.69
 * Fixed stuff someting to do with hotkey
 * Devmode fixed
 * i didn't test all of it, tell me if its not working
 
-[10/06/2024]
+[10/17/2024]
 * ====BETA ONLY====
 * Fixed ban on pathfinder
 * FIxed pathfinder no work (always teleported back)
+
+[10/25/2024]
+* Updated 4.19 and beta to 4.70
+* Nothing new me sad
 
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
