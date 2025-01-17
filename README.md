@@ -3,7 +3,7 @@
 Growpai is a utility tool that makes your life easier in Growtopia. With the built-in Lua Executor you can create new features!
 # This is the real Github (check username github HertZxD)
 
-# Version 4.71
+# Version 5.02
 # Changelogs
 [26/4/2024]
 * Updated to 4.54 (4.19 still available for now)
