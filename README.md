@@ -1,3 +1,4 @@
+# growpai real beware clone!!!
 # Growpai official made by hertZxD
 Growpai is a utility tool that makes your life easier in Growtopia. With the built-in Lua Executor you can create new features!
 # This is the real Github (check username github HertZxD)
