@@ -105,6 +105,41 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 * Updated 4.19 and beta to 4.70
 * Nothing new me sad
 
+[11/13/2024]
+* Updated 4.19 growpai from 4.70 to 4.71
+* Updated Growpai beta from 4.70 to 4.71
+
+[11/28/2024]
+* Updated Growpai 4.19 to 4.72
+* BETA IS NOT UPDATED!!
+
+[11/29/2024]
+* Fixed 4.19 growpai nickname bug and autobanned OMAGIAAAT
+* BETA IS NOT UPDATED
+
+[11/29/2024]
+* Fixed 4.19 growpai nickname bug and autobanned OMAGIAAAT
+* Growpai beta is updated  to 4.72!!
+
+[12/11/2024]
+* Updated Growpai v4.19 to 5 (not beta :()
+
+[12/13/2024]
+* Updated Growpai v4.19 to v5.01 (PLEASE NO MORE UPDATE!!!!)
+
+[12/15/2024]
+* Updated BETA to the latest version! (v5.01)
+
+[12/26/2024]
+* Updated BETA to the latest version! (v5.02)
+* Updated Growpai 4.19 to the latest version! (v5.02)
+* Merry christmas to anyone who celebrates it!!!
+
+[12/26/2024]
+* Fixed beta crashing whenm entering world...(hopefully)
+* Fixed beta /back
+
+
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
 # image of growpai!
