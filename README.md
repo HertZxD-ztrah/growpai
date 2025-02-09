@@ -1,4 +1,7 @@
-# growpai real beware clone!!!
+# GrowPai
+Stuff for GrowPai. All Original and created by HertZxS This repository is licensed,Also for more growpai related questions just simply go to the discord. I won't provide any links as it is against discord's ToS.
+
+DIALOGS AND FUNCTIONS FOR GROWPAI (https://growhax.gitbook.io/growpai)
 # Growpai official made by hertZxD
 Growpai is a utility tool that makes your life easier in Growtopia. With the built-in Lua Executor you can create new features!
 # This is the real Github (check username github HertZxD)
