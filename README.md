@@ -3,7 +3,7 @@
 Growpai is a utility tool that makes your life easier in Growtopia. With the built-in Lua Executor you can create new features!
 # This is the real Github (check username github HertZxD)
 
-# Version 5.02
+# Version 5.06
 # Changelogs
 [26/4/2024]
 * Updated to 4.54 (4.19 still available for now)
@@ -139,6 +139,18 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 [12/26/2024]
 * Fixed beta crashing whenm entering world...(hopefully)
 * Fixed beta /back
+
+[1/17/2025]
+* Updated both Beta and 4.19 growpai to latest version (5.03)
+
+[1/24/2025]
+* Updated both Beta and 4.19 growpai to latest version (5.05)
+* On 4.19, pls try use custom ltoken login (RGT)
+* Added spooflogin, custom login, and login stuff to save config
+
+[2/2/2025]
+* Updated both Beta and 4.19 growpai to latest version (5.06)
+* On 4.19, pls try use custom ltoken login (RGT)
 
 
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
