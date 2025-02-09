@@ -1,5 +1,5 @@
 # GrowPai
-Stuff for GrowPai. All Original and created by HertZxS This repository is licensed,Also for more growpai related questions just simply go to the discord. I won't provide any links as it is against discord's ToS.
+Stuff for GrowPai. All Original and created by HertZxD This repository is licensed,Also for more growpai related questions just simply go to the discord. I won't provide any links as it is against discord's ToS.
 
 DIALOGS AND FUNCTIONS FOR GROWPAI (https://growhax.gitbook.io/growpai)
 # Growpai official made by hertZxD
