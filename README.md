@@ -155,6 +155,25 @@ Growpai is a utility tool that makes your life easier in Growtopia. With the bui
 * Updated both Beta and 4.19 growpai to latest version (5.06)
 * On 4.19, pls try use custom ltoken login (RGT)
 
+[2/20/2025]
+* Updated Beta growpai to latest version (5.07)
+* Updated 4.19 growpai to latest version (5.07)
+
+[3/6/2025]
+* Updated Beta growpai to latest version (5.08)
+* Updated 4.19 growpai to latest version (5.08) -- Tell me if this work
+
+[3/7/2025]
+* Fixed BETA version growscan error & items.dat load crash
+
+[3/14/2025]
+* Updated Beta growpai to latest version (5.09)
+* Updated 4.19 growpai to latest version (5.09) -- tested on rgt working
+
+[3/16/2025]
+* Updated Beta growpai to latest version (5.1)
+* Updated 4.19 growpai to latest version (5.1) -- tested on rgt working
+
 
 # [Download gt v4.19](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe) 
 
